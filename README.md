@@ -2,6 +2,8 @@
 
 This repository contains weekly assignment solutions for the RG course.
 
+* Week 1 - Reviewed & approved
+  
 ## Main Branch Structure
 
 All assignment folders are located under the `main` branch inside the `week-1` directory.
